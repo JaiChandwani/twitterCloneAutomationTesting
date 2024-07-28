@@ -1,6 +1,6 @@
 # Selenium Framework with Java for Twitter Clone
 
-This repository demonstrates a Selenium framework implemented in Java for testing a Twitter clone website. Created by [@tanishka khameshara](https://github.com/tanishkakhameshara), this project showcases the automation of the signup and login pages of the web application. Additionally, it integrates ExtentReports to generate detailed test reports.
+This repository demonstrates a Selenium framework implemented in Java for testing a Twitter clone website. Created by [Tanishka Khamesara](https://github.com/Tanishka-khamesara), this project showcases the automation of the signup and login pages of the web application. Additionally, it integrates ExtentReports to generate detailed test reports.
 
 ## Features
 
